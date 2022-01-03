@@ -1,9 +1,8 @@
-### Hi there 👋
-
+## Hi there, I'm Ashley 👋👩🏽‍💻
+### About me
+I'm a first year computer science student at Western University. I'm an aspriring web and software developer
+I love learning new skills and picking up new hobbies!
 <!--
-**ashleyoyewole/ashleyoyewole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

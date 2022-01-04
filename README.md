@@ -1,5 +1,6 @@
-## Hi there, I'm Ashley 👋👩🏽‍💻
-### About me
+##### (Psst..A work in progress!)
+## Hi there, I'm Ashley 👋
+### About me 🎲
 I'm a first year computer science student at Western University. I'm an aspriring web and software developer
 I love learning new skills and picking up new hobbies!
 <!--

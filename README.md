@@ -10,6 +10,6 @@ I'm a first year computer science student at Western University. I'm an aspririn
 - 📝 User interface designing & prototyping
 - 🎮 Gaming
   - `Currently dabbing in game asset design!`
-### Where to find me
+### Where to find me 🔍
 - [LinkedIn](https://www.linkedin.com/in/ashleyoyewole/)
 - [Behance](behance.net/ashleyoyewole)

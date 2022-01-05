@@ -8,11 +8,11 @@ I'm a first year computer science student at Western University. I'm an aspririn
 | → UI design            | → CSS frameworks    |
 | → Database design      |                     |
 
-[(View my resume here📝)](bit.ly/AshleyOyewoleResume)
+[(View my resume here📝)](https://drive.google.com/file/d/1NLX2MS9RNdxha3PF4sPpxE1qnlP4pZ69/view)
 
 #### Programming Languages `(still learning!)`:
 - HTML/CSS, Python, SQL
 
 ### View my work/activities
-| [LinkedIn](https://www.linkedin.com/in/ashleyoyewole/) | [Behance](behance.net/ashleyoyewole) |
+| [LinkedIn](https://www.linkedin.com/in/ashleyoyewole/) | [Behance](https://www.behance.net/ashleyoyewole) |
 |--------------------------------------------------------|--------------------------------------|

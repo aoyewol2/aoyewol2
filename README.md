@@ -1,6 +1,7 @@
 ## Hi there, I'm Ashley 👋
 ### About me 🎮
-I'm a first year computer science student at Western University. I'm an aspriring web and software developer. I'm currently at the beginner level of programming. A few of my hobbies outside of coding is video editing, light graphic design and occassionally gaming!
+I'm a first year computer science student at Western University. I'm an aspriring web and software developer. I'm currently at the beginner level of programming and in the process of exploring my different interests within tech.
+. A few of my hobbies outside of coding is video editing, light graphic design and occassionally gaming!
 
 |💪 My main skills:        | ⚙️ Currently learning: |
 |------------------------|---------------------|

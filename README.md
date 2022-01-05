@@ -5,8 +5,8 @@ I'm a first year computer science student at Western University. I'm an aspririn
 |💪 My main skills:        | ⚙️ Currently learning: |
 |------------------------|---------------------|
 | → Frontend development | → Game asset design |
-| → UI design            | → CSS frameworks    |
-| → Database design      |                     |
+| → UI design            | → Javascript        |
+| → Database design      | → CSS frameworks    |
 
 [(View my resume here📝)](https://drive.google.com/file/d/1NLX2MS9RNdxha3PF4sPpxE1qnlP4pZ69/view)
 

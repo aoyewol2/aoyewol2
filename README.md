@@ -13,6 +13,6 @@ I'm a first year computer science student at Western University. I'm an aspririn
 #### Programming Languages `(still learning!)`:
 - HTML/CSS, Python, SQL
 
-### A little bit more about me
+### More of me
 | [LinkedIn](https://www.linkedin.com/in/ashleyoyewole/) | [Behance](https://www.behance.net/ashleyoyewole) |
 |--------------------------------------------------------|--------------------------------------|

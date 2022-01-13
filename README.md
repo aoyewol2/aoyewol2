@@ -1,7 +1,6 @@
 ## Hi there, I'm Ashley 👋
 ### About me 🎮
-I'm a first year computer science student at Western University. I'm an aspriring web and software developer. I'm currently at the beginner level of programming and in the process of exploring my different interests within tech. I'm most interested in web dev, game development and product design.
-A few of my hobbies outside of coding is video editing, graphic design and occassionally gaming!
+I'm a first year computer science student at Western University interested in web dev, game development and product design.
 
 |💪 My main skills:        | ⚙️ Currently learning: |
 |------------------------|---------------------|
@@ -14,6 +13,7 @@ A few of my hobbies outside of coding is video editing, graphic design and occas
 #### Programming Languages `(still learning!)`:
 - HTML/CSS, Python, SQL
 
-### More of me
-| [LinkedIn](https://www.linkedin.com/in/ashleyoyewole/) | [Behance](https://www.behance.net/ashleyoyewole) |
-|--------------------------------------------------------|--------------------------------------|
+### More stuff
+| [LinkedIn](https://www.linkedin.com/in/ashleyoyewole/) | [Behance](https://www.behance.net/ashleyoyewole) | [Website](https://aoyewol2.github.io/) |
+|--------------------------------------------------------|--------------------------------------------------|----------------------------------------|
+

@@ -1,5 +1,5 @@
 ### 👩🏽‍💻 About me
-Hi, I'm Ashley. Currently in my second year studying computer science at Western University, with a passion for UI and software design. [✉️ Say hello](mailto:aoyewol2@uwo.ca)
+Hi, I'm Ashley. I'm in my second year studying computer science at Western University, with a passion for UI and software design. [✉️ Say hello](mailto:aoyewol2@uwo.ca)
 - **tech stack**: ![React](https://img.icons8.com/color/16/react-native.png) React, ![JS](https://img.icons8.com/color/16/javascript--v2.png) JavaScript, ![Py](https://img.icons8.com/color/16/python--v1.png) Python (backend), ![Figma](https://img.icons8.com/fluency/16/figma.png) Figma and ![Notion](https://img.icons8.com/doodle/16/notion.png) Notion
 - **my interests**: UI and iOS development, building cool pc setups
 

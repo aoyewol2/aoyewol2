@@ -8,4 +8,4 @@ Hi, I'm Ashley. Currently in my second year studying computer science at Western
 - organizing Toronto's largest hackathon as an operations exec at [Hack the 6ix](https://hackthe6ix.com/)
 
 ### ☕ Let's chat!
-- [Linkedin](https://www.linkedin.com/in/aoyewol2/) + [Polywork](https://www.polywork.com/aoyewol2)
+- [linkedin](https://www.linkedin.com/in/aoyewol2/) + [polywork](https://www.polywork.com/aoyewol2) + [resume](https://ashleyoyewole.dev/static/media/AshleyOyewole_Resume.910e17bde438314ac578.pdf)

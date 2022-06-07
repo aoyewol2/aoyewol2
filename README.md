@@ -4,7 +4,7 @@ Currently in my second year studying computer science at Western University, wit
 - **my interests**: UI and iOS development, building cool pc setups
 
 ### 🛠️ What I'm up to
-- integrating technology to university courses as a digital media developer/designer at [Western University](https://itrc.uwo.ca/)
+- integrating technology to university courses as a digital developer/designer at [Western University](https://itrc.uwo.ca/)
 - organizing Toronto's largest hackathon as an operations exec at [Hack the 6ix](https://hackthe6ix.com/)
 
 ### ☕ Let's chat!

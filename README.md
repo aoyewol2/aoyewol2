@@ -1,6 +1,6 @@
 ### 👩🏽‍💻 About me
 Currently in my second year studying computer science at Western University, with a passion for UI and software design. [✉️ Say hello](mailto:aoyewol2@uwo.ca)
-- **tech stack**: ![React](https://img.icons8.com/color/16/react-native.png) React, ![JS](https://img.icons8.com/color/16/javascript--v2.png) JavaScript, ![Py](https://img.icons8.com/color/16/python--v1.png) Python (backend) and ![Figma](https://img.icons8.com/fluency/16/figma.png) Figma
+- **tech stack**: ![React](https://img.icons8.com/color/16/react-native.png) React, ![JS](https://img.icons8.com/color/16/javascript--v2.png) JavaScript, ![Java](https://img.icons8.com/color/16/java-coffee-cup-logo--v1.png) Java and ![Figma](https://img.icons8.com/fluency/16/figma.png) Figma
 - **my interests**: UI and mobile development, building cool pc setups
 
 ### 🛠️ What I'm up to

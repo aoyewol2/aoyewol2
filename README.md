@@ -5,8 +5,10 @@ Currently in my second year studying computer science at Western University, wit
 
 ### 🛠️ What I'm up to
 - integrating technology to university courses as a digital developer & designer at [Western University](https://itrc.uwo.ca/)
-- organizing Toronto's largest hackathon at [Hack the 6ix](https://hackthe6ix.com/)
 - designing cool stuff as a designer at [Women+ in Tech Society](https://www.instagram.com/wits.uwo/)
+
+### 🕗 What I've done
+- organized Toronto's largest hackathon at [Hack the 6ix](https://hackthe6ix.com/)
 
 ### ☕ Let's chat!
 - [linkedin](https://www.linkedin.com/in/aoyewol2/) + [email](mailto:aoyewol2@uwo.ca) + [resume](https://ashleyoyewole.dev/static/media/AshleyOyewole_Resume.910e17bde438314ac578.pdf)

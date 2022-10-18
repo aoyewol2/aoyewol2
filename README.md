@@ -1,5 +1,5 @@
 ### Hi there, I'm Ashley 👋
-Currently in my second year studying computer science at Western University, with an interest in frontend dev.
+Currently in my second year studying computer science at Western University, with an interest in UI software engineering.
 
 https://ashleyoyewole.dev/
 

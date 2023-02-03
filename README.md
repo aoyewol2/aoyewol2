@@ -1,7 +1,7 @@
 ### Hi there, I'm Ashley 👋
 Currently in my second year of Computer Science at Western University, with an interest in UI software engineering.
 
-[Portfolio](https://ashleyoyewole.dev/)
+[Portfolio](https://ashleyoyewole.me)
 
 - I work with: React, Next.js, JavaScript/TypeScript, C, Java, Python, HTML, CSS/Sass, SQL, Figma & Linux
 - For fun: UI and graphic design, building cool pc setups

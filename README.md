@@ -7,7 +7,8 @@ Currently in my second year of Computer Science at Western University, with an i
 - For fun: UI and graphic design, building cool pc setups
 ### What I Do
 - Designing cool stuff as a designer at [Women+ in Tech Society](https://www.instagram.com/wits.uwo/)
-
 ### What I've Done
-- Integrated technology to university courses as a digital developer & designer at [Western University](https://itrc.uwo.ca/)
-- Developed the clubs website, and designed the UI design as a developer at [CSUS](https://www.instagram.com/westerncsus/)
+- Integrated technology to university courses as a Digital Designer at [Western University](https://itrc.uwo.ca/)
+- Developed the clubs website, and designed the UI design as a Web Developer at [CSUS](https://www.instagram.com/westerncsus/)
+- Planned the largest hackathon in Toronto as an Operations Exec at [Hack the 6ix](https://hackthe6ix.com/)
+- Organized scientific programs for hundreds of students worldwide as an Event Coordinator at [Generation Science](https://www.instagram.com/gen.sci/)

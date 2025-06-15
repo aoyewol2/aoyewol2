@@ -1,5 +1,5 @@
 ### Hi there, I'm Ashley 👋
-Computer Science student at Western University, with an interest in UI software engineering.
+Computer Science student at UWO, with an interest in UI software engineering.
 
 
 - I work with: React, Next.js, JavaScript/TypeScript, C, Java, Python, HTML, CSS/Sass, SQL, Figma & Linux
